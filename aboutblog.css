@@ -1,0 +1,11 @@
+body {
+    background-image: url(FULLHD.jpg);
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-position:cover;
+    background-size:cover;
+}
+
+section {
+    font-size: 20 em; text-align: center
+}
