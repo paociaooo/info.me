@@ -1,5 +1,5 @@
 body {
-    background-image: url(me.PNG);
+    background-image: url(me.png);
     background-repeat: no-repeat;
     background-attachment:scroll;
     background-position:right;
@@ -18,4 +18,8 @@ section {
     border: 2px hsla(20, 3%, 35%, 0.5);
     margin: 20px;
     padding: 1px;
+}
+
+.music {
+    display: none;
 }
