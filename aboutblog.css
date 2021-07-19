@@ -1,15 +1,21 @@
 body {
-    background-image: url(FULLHD.jpg);
+    background-image: url(me.png);
     background-repeat: no-repeat;
     background-attachment:scroll;
-    background-position:cover;
-    background-size:cover;
-    max-width: 100%;
-    min-width: 300px;
-    height: auto;
-
+    background-position:right;
+    background-size:contain;
+    background-color: blanchedalmond;
+    margin-bottom: 0px;
 }
 
 section {
     font-size: 20 em; text-align: center
+}
+
+.chap {
+    background-color: hsla(0, 32%, 45%, 0.5);
+    color: rgb(88, 84, 84);
+    border: 2px hsla(20, 3%, 35%, 0.5);
+    margin: 20px;
+    padding: 1px;
 }
