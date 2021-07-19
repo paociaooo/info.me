@@ -3,7 +3,9 @@ body {
     background-repeat: no-repeat;
     background-attachment:scroll;
     background-position:cover;
-    background-size:cover;
+    max-width: 100%;
+    min-width: 300px;
+    height: auto;
 }
 
 section {
